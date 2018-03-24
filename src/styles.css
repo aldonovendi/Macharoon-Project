@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+@font-face{
+	font-family: 'Gotham';
+	src: url('./assets/fonts/GothamBook.ttf');
+}
+
+@font-face{
+	font-family: 'Gotham';
+	src: url('./assets/fonts/GothamMedium.ttf');
+	font-weight: bold;
+}
+
+html, body{
+	font-family: 'Gotham';
+}
